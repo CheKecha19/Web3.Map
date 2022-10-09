@@ -6,10 +6,14 @@
 
 Другие наши проекты:&#x20;
 
-{% content-ref url="https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/yfGDDBPdCffYdFNxhkph/" %}
-[Web3 Corp](https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/yfGDDBPdCffYdFNxhkph/)
-{% endcontent-ref %}
-
 {% content-ref url="https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/TiRf6MS61npTFs08P0Pq/" %}
 [Web3.Ban](https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/TiRf6MS61npTFs08P0Pq/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/QJXwGXRdzcRet84xHIVF/" %}
+[Web3.Adv](https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/QJXwGXRdzcRet84xHIVF/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/CCiwM3CCd5SQtTG3jIxw/" %}
+[Web3.Socials](https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/CCiwM3CCd5SQtTG3jIxw/)
 {% endcontent-ref %}

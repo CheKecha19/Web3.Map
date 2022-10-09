@@ -11,3 +11,7 @@
 ## Group 2
 
 * [Page 2](group-2/page-2.md)
+
+***
+
+* [Колумнисты](kolumnisty.md)

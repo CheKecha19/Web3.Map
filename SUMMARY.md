@@ -1,12 +1,12 @@
 # Table of contents
 
-* [About us: Web3Map](README.md)
+* [❓ About us: Web3.Map](README.md)
 
 ## Group 1
 
-* [тима](group-1/tima.md)
-* [Роадмапа](group-1/roadmapa.md)
-* [123](group-1/123.md)
+* [😎 Team](group-1/team.md)
+* [💫 Introduction](group-1/introduction.md)
+* [🗺 Roadmap](group-1/roadmap.md)
 
 ## Group 2
 

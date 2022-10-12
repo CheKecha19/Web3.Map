@@ -17,3 +17,7 @@
 {% content-ref url="https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/CCiwM3CCd5SQtTG3jIxw/" %}
 [Web3.Socials](https://app.gitbook.com/o/gj2fOz2JmGRFlS9ijPqM/s/CCiwM3CCd5SQtTG3jIxw/)
 {% endcontent-ref %}
+
+## What is Web3.Map?
+
+Web3.Map is a part of Web3.Corp compant that aims to collect&#x20;

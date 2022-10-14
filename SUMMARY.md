@@ -1,12 +1,8 @@
 # Table of contents
 
-* [❓ About us: Web3.Map](README.md)
+## FAQ
 
-## Group 1
-
-* [😎 Team](group-1/team.md)
-* [💫 Introduction](group-1/introduction.md)
-* [🗺 Roadmap](group-1/roadmap.md)
+* [❓ EWOO labs FAQ](README.md)
 
 ## Group 2
 
@@ -15,3 +11,6 @@
 ***
 
 * [Колумнисты](kolumnisty.md)
+* [💫 Introduction](introduction.md)
+* [🗺 Roadmap](roadmap.md)
+* [😎 Team](team.md)

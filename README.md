@@ -15,7 +15,7 @@ EWOO labs started as a web2 company in [fall 2022](https://twitter.com/EWOO\_lab
 ### I am new here, how can I help?
 
 1. Join to our discord server, follow on twitter and fill our testnet form in discord. Also u can send your **ETH** wallet (we use **NFT Whitelist Wallet Bot)** \
-   ****![](<.gitbook/assets/image (1).png>)
+   ****![](<.gitbook/assets/image (1) (1).png>)
 2. Help grow the knowledge map by adding entity page. Follow our Adding Structured Data Guide to get started.
    1. **Submit pages:** Users that submit fact triples that go on to be accepted will be eligible for an airdrop when the EWOO token is released. _There is no need to paste edits of data and citations into Discord_.
    2. **Validate pages:** Users can become eligible for a future airdrop by validating pages that get accepted by the list of projects on [ewoolabs.xyz](https://ewoolabs.xyz/). Please follow our Validation Guide when validating.
@@ -28,9 +28,11 @@ EWOO labs started as a web2 company in [fall 2022](https://twitter.com/EWOO\_lab
 
 There is currently no **EWOO** token and no set date for release. The team will clearly communicate this release well in advance of the launch.
 
-⚠️ Important: We will \*never\* directly message you about the token sale, so please do not interact with any such messages as they are spam. When we launch the token, we will do so on multiple marketing channels including core discord announcements channels, twitter and our blog.
+{% hint style="info" %}
+Important: We will \*never\* directly message you about the token sale, so please do not interact with any such messages as they are spam. When we launch the token, we will do so on multiple marketing channels including core discord announcements channels, twitter and our blog.
 
 The team is working aggressively towards a testnet launch. Currently we are creating our web2 version. We will announce web3 version and $EWOO token after compliting web2 version.&#x20;
+{% endhint %}
 
 ### **How will airdrops be awarded**
 

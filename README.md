@@ -17,12 +17,10 @@ EWOO labs started as a web2 company in [fall 2022](https://twitter.com/EWOO\_lab
 1. Join to our discord server, follow on twitter and fill our testnet form in discord. Also u can send your **ETH** wallet (we use **NFT Whitelist Wallet Bot)** \
    ****![](<.gitbook/assets/image (1) (1) (1).png>)
 2. Help grow the knowledge map by adding entity page. Follow our Adding Structured Data Guide to get started.
-   1. **Submit pages:** Users that submit fact triples that go on to be accepted will be eligible for an airdrop when the EWOO token is released. _There is no need to paste edits of data and citations into Discord_.
+   1. **Submit pages:** Users that submit fact triples that go on to be accepted will be eligible for an airdrop when the EWOO token is released. _There is no need to paste edits of data into Discord_.
    2. **Validate pages:** Users can become eligible for a future airdrop by validating pages that get accepted by the list of projects on [ewoolabs.xyz](https://ewoolabs.xyz/). Please follow our Validation Guide when validating.
 3. Are you a builder (developer, data scientist etc.) that can help us? Let us know in Discord by introducing yourself.
 4. Share the project! Tell your friends, developers, or family. Join our Discord and invite like minded people to ewoolabs.xyz.
-
-### **What’s the TLDR on how the protocol works?**
 
 ### When will a token be released?
 
@@ -40,7 +38,6 @@ At this time, performing the following tasks will make you eligible for an airdr
 
 * submitting pages that go on to be accepted
 * performing correct validation
-* adding a citation to a pages that exists on EWOO labs that doesn’t have a citation already
 
 Up to 1% of the token treasury will be awarded to the community for correct data submission and validation.
 
@@ -59,10 +56,6 @@ The Triple Validation Guide covers mechanics and common questions around validat
 Yes! You will eligible for an airdrop reward relative to the number of correct pages you have submitted when we launch our token on the mainnet.
 
 **Note**: for additions to be counted towards airdrop rewards they must follow the Adding Structured Data Guide and not attempt to game our validation protocol.
-
-### I have been adding citations, are my efforts being counted?
-
-Yes! Adding valid citations to any pages that is missing a citation will qualify you for a special airdrop, and will help the pages you have cited become validated. Citations should be focused around pages that are not URL predicates, especially pages added after the launch of ewoolabs.xyz.
 
 ### How can I find my position in the leaderboard?
 

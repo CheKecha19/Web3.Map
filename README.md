@@ -10,6 +10,14 @@ EWOO labs started as a web2 company in [fall 2022](https://twitter.com/EWOO\_lab
 
 **Hiring:** We are hiring fast and have many open roles. Feel free to apply or share. For applying you should be in our discord server.
 
+### <mark style="color:red;">Why EWOO labs?</mark>
+
+<mark style="color:red;">All in One: Мы планируем нарастить нашу базу знаний до предельного уровня. Вся информация, которую можно получить из открытых источников, будет опубликована в одном месте. Больше не нужно искать информацию по разным сайтам или вспоминать, какой именно проект вам нужен - всё будет собрано в одном месте!</mark>
+
+<mark style="color:red;">Flexible: Мы будем постоянно увеличивать количество информации, которую будем собирать с проектов и поддерживать уровень траста, доказывающий полезность нашего проекта</mark>
+
+<mark style="color:red;">Secure: наши данные нельзя будет каким либо образом изменить без прохождения дополнительных проверок, начиная от базовой - администраторами проекта EWOO labs, и заканчивая проверкой наших пользователей. FULL TIME PROJECTS AUDIT</mark>
+
 ## Popular questions:
 
 ### I am new here, how can I help?

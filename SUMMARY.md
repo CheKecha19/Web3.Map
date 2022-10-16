@@ -10,7 +10,8 @@
   * [Confirming wallet](faq/guides/confirming-wallet.md)
   * [How to add page](faq/guides/how-to-add-page.md)
   * [How to validate](faq/guides/how-to-validate.md)
-* [Rewards and tokenomic](faq/rewards-and-tokenomic.md)
+* [Rewards and tokenomic](faq/rewards-and-tokenomic/README.md)
+  * [Tokenomic](faq/rewards-and-tokenomic/tokenomic.md)
 
 ## Group 2
 
@@ -20,3 +21,7 @@
 ***
 
 * [🗺 Roadmap](roadmap.md)
+
+## скопипизжено с хавка
+
+* [What is EWOO labs?](skopipizzheno-s-khavka/what-is-ewoo-labs.md)

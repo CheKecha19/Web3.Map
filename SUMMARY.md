@@ -15,6 +15,7 @@
 
 ## Group 2
 
+* [Возможности для пользователей](group-2/vozmozhnosti-dlya-polzovatelei.md)
 * [Архитектура](group-2/arkhitektura.md)
 * [Колумнисты](group-2/kolumnisty.md)
 
